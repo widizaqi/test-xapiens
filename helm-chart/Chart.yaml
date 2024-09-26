@@ -1,0 +1,6 @@
+apiversion: v2
+name: python-http-server
+description: A simple python HTTP server Helm Chart
+type: application
+version: 0.1.0
+appVersion: "1.0"
